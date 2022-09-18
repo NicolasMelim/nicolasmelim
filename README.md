@@ -2,7 +2,7 @@
 <h1>Olá, me chamo Nicolas Melim e tenho 18 anos!</h1>
 <h2>Tenho o domínio em:</h2>
 <div> <details open="open">
-  <summary>Experiências:</summary>
+  <summary>Domínio:</summary>
     <ul>
       <li>CSS3</li>
       <li>HTML5</li>
